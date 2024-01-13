@@ -1,3 +1,0 @@
--- CRA and setup tailwind using vite
---setup route for different page
--- header signin and signup page ui completed
