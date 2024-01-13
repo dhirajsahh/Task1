@@ -1,0 +1,2 @@
+-- CRA and setup tailwind using vite
+--setup route for different page
